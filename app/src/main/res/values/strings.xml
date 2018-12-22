@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day7SharedPreferancesApiExample</string>
+    <string name="user_name">Thomas </string>
+    <string name="user_password">thomas@123 </string>
+
+    <string name="login_preferances_">com.abc.sharedpreferanceExample_login_preferance</string>
+    <string name="login_status_preferances_">com.abc.sharedpreferanceExample_login_status_preferance</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="logout">Logout</string>
+</resources>
